@@ -1,3 +1,3 @@
 # popcorn_time
 
-![Screenshot of Mealify](.assets/Untitled design.jpg)
+![Screenshot of popcorn_time](assets/Untitled design.jpg)
